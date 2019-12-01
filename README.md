@@ -1,5 +1,5 @@
 # Operating-Systems
-Implemented and experimented with some functionalities of Operating systems in CS330 under Prof. Debadutta
+Implemented and experimented with some functionalities of Operating systems in CS330 under Prof. Debadatta Mishra
 
 ### Assignment 1
 Experimented with the process abstraction APIs (including fork, pipe, stats) provided by the existing OSs.
